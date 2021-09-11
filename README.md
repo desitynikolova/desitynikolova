@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @desitynikolova
-- 👀 I’m interested in programming, singing ...
+- 👀 I’m interested in programming, singing, writing poems ...
 - 🌱 I’m currently learning Software Еngineering at the University of Veliko Tarnovo.
 
 <!---
